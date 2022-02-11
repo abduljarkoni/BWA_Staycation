@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src"
+  },
+  "include": ["src/**/*"]
+}
+// fungsi agar memudahkan kita mencari atau import alamat file yang berada di dalam foldernya
+// agar tidak mundur namun langsung kita ketikan nama foldernya saja secara otomatis akan muncul.
