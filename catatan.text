@@ -1,0 +1,31 @@
+1. install reacat router dom dan sass
+>> npm install react-router-dom node-sass 
+
+# download file sass dari bootstrap
+- klik download pada source file
+-ekstrak file.
+-cari folder scss dan copy folder di folder assets kita
+-kemudian masuk ke folder scss dan hapus file (bootstrap-grid.scss dan bootstrap-reboot.scss)
+-kemudian ganti nama file "bootstrap.scss" menjadi file "style.scss"
+-import file scss di app.js
+ >> import 'assets/scss/style.scss'
+
+# buat file "jsconfig.js" pada folder utama react
+- isi dengan 
+>> 
+{
+    "compilerOptions":{
+        "baseUrl": "src"
+    },
+    "include": "src/**/*"
+}
+>>
+note : ini berfungsi untuk mempermudah ketika kita mwu import-import setiap komponen jadi
+bisa muncul lokasi folder atau filenya secara otomatis dan harus keluar dulu dari foldernya ("../folder/file")
+
+-untuk memunculkan folder pada import
+bisa dengan cara ketikan "nama foldernya" kemudian 
+tekan "control" dan "sepasi"
+maka secara otomatis akan ditampilkan folder tersebut meski berada di luar folder.
+
+# 
