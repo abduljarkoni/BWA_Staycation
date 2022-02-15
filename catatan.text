@@ -14,11 +14,12 @@
 - isi dengan 
 >> 
 {
-    "compilerOptions":{
-        "baseUrl": "src"
-    },
-    "include": "src/**/*"
+  "compilerOptions": {
+    "baseUrl": "src"
+  },
+  "include": ["src/**/*"]
 }
+
 >>
 note : ini berfungsi untuk mempermudah ketika kita mwu import-import setiap komponen jadi
 bisa muncul lokasi folder atau filenya secara otomatis dan harus keluar dulu dari foldernya ("../folder/file")
