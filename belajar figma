@@ -1,0 +1,52 @@
+
+1). membuat bayangan pada kontent botton dengan dropshadow.
+
+2). membuat button dengan retangle dan text kemudian menyatukannya dengan group.
+
+3). membuat button menjadi sebuah component dengan klik grup button tersebut pada bagian kiri figma kemudian klik kanan dan cari create component.
+
+4). membuat gambar dan mengeditnya di figma, cari di unsplash kemudian masuk ke figma, kemudian buat retangle klik retangle pada bagian kiri buat buat grup (dengan nama banner) dan buat grup lagi dengan nama (picture) disini kita copyakan imagenya kemudian bisa kita atur sesuai dengan yang kita inginkan.
+untuk mengatur kita bisa arahkan pointer ke sisi gambar dengan menekan shift.
+
+5). membuat garis dan bayangan pada gambar, kita bisa copy grup (picture) gambar tersebut pada bagian kiri, kemudian kita ganti namanya menjadi frame di grup frame. bisa kita hapus gambarnya dan kita tutup use mask nya.
+lalu kecilkan gambar picture dan kita bisa buat radius pada setiap sisi gambar dan juga bayangannya dengan atur radiusnya. 
+
+6). membuat sudu pada gambar atau object menjadi lebih tumpul dengan mengklik 
+"independent corners", kemudian atur sisi yang ingin ditumpulkan, ini hanya satu atau beberapa sisi saja yang ingin kita tumpulkan.
+
+7). membuat garis pada object ratangle dengan menggunakan strok, klik dan atur garis menjadi 2 dan ganti warnanya sesuai dengan yang kita inginkan.
+
+8). untuk object ratangle untuk mewarnainya kita bisa gunakan "fill"
+
+9). tekan spasi + gerakkan mouse untuk menggeser layar
+tekan cntrl + = untuk memperbesar dan tekan cntrl + - untuk memper kecil.
+
+10). membuat icon koper dengan figma
+a. klik page dan ganti nama dengan website desain. ini adalah page web desain
+ kita 
+b. klik tanda + atau buat page lagi dengan nama icons desain.
+1. disini kita buat frame dengan ukuran icon kita yaitu 48x48 kemudian 
+2. kita buat rantangle dengan semua sudut tumpul atau radius 8px
+dan hapus fill nya, kemudian pada bagian stroke ganti warnnya menjadi biru tua, kemudian ukuran garisnya di ganti menjadi 3 agar lebih besar
+3. buat gagang koper dengan duplikat ratanglenya kemudian kecilkan dan hapus sudut tumpul bagian bawah dan kecilkan sudu tumpul bagian atas menjadi 4px agar menjadi gagang koper yang sempurna, 
+4.membuat garis lurus dengan pentool, kemudian pada bagian pada "stroke" more ganti jenis garis nya menjadi "round" dan agar ujung2nya menjadi tumpul, tambah ukurannya menjadi 3 dan ganti warna menjadi biru.
+5. untuk membuat gambar menjadi bagus, maka kita hrus tambahkan rantangle pada bagian depannya. kemudian kita ganti nama menjadi "box", kemudian satukan dan buat menjadi grup "icon_traveller" hilangkan fill color pada box nya dengan klik "-", samakan dengan nama framenya.
+
+11). membuat twiking atau export dan resize icons atau visual hirarki atau komponen icon tidak boleh lebih besar dari pada button, yang besar dari bagian componen adalah hal yang paling penting. button lebih penting dari pada icons.
+
+12). (footer) membuat garis abu2 pada halaman, dengan mengcopy background atau rantagle kemudian grup lagi dan ganti nama dengan divider,
+disini background tersebut kita kasih tinggi nya (hight 1px) dan warnanaya kita hapus dan ganti menjadi warna abu-abu (E5E5E5). kemudian background  dasarnya juga kita hapus warnanya atau fill nya agar menjadi putih.
+
+13).MEMBUAT PROTOTYPE 
+1. klik prototype yang berada di sebelah kanan atas
+2. ketika suatu page atau halaman terlalu panjang maka kita dapat membagi 2 dengan seleksi semuanya kemudian arahkan ke atas agar halaman tersebut terpotong namun di duplikat terdahulu jadi 1 halaman di jadikan 2 halaman 1 all halaman 1 lagi sebagian atau sepotong halaman.
+3. klik button yang diingnkan, klik + kemudian arahkan panah ke page yang ingin di tampilkan ketika tombol di klik.
+4. maka akan muncul muncul halaman animasi klik smartanimation, kemudian klik ease in dan klik 800s untuk waktunya.
+5. pada halaman spotong atau setengah kita klik kemudian kita klik overflow behavior kemudian pilih vertical scrolling, agar bisa di scroll ke atas
+6.   
+
+
+
+
+
+

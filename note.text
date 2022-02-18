@@ -1,0 +1,78 @@
+Project :pembuatan aplikasi penyewaan hotel 
+WEB : STAYCATION
+
+
+1). Pembuatan customer persona dengan aplikasi web flow mapp
+link : https://app.flowmapp.com/share/766fa04ac2a23077dac695be9f6fa150/personas/51421/
+
+
+2). Pembuatan Information Architecture (pembuatan alur/flow chart dan pembagian tugas setiap developer)menggunakan aplikasi web Whimsical
+-membuat folder dan membuat mind map
+link :https://whimsical.com/staycation-com-JbhpxAZM3yJ3ZKSCWpwvVk 
+
+
+3). membuat user Flow, agar aplikasi yang kita buat berjalan sesuai rancangannya pada information (menggunakan aplikasi web whimsical)
+link : https://whimsical.com/main-flow-TC2XpsK6BTBsyzDUi9dYCY
+
+
+4). share user flow dan Information architecture ke pihak developer untuk diproses pembuatan aplikasi dan jangan lupa enabled edit agar desain kita tidak bisa diedit oleh orang lain.
+link : https://whimsical.com/main-flow-TC2XpsK6BTBsyzDUi9dYCY
+
+
+5). membuat wireframe untuk membuat visual yang sesuai rancangan dan jika ada perubahan bisa membuatnya dengan mudah, agar ceo dapat memiliki gambaran gimana webnya akan berjalan apabila sudah jadi.
+
+note : 
+Button CTA adalah untuk customer atau pengunjung website kita bisa memulai aksinya untuk bertransaksi melalui website kita atau tombol yang dapat mengarahkan customer membooking hotel melalui website kita.
+
+note : 
+jika kita membuat wireframe atau desain aplikasi usahakan apa yang kita desain sesuai dengan desain yang tersedia di framework yang akan digunakan oleh developer front end agar mempercepat proses pembuatan aplikasinya. apabila berbeda akan mempersulit front end untuk pembuatannya dan banyak memakan waktu.karena biasanya bila bekerja pada start up pasti kita akan di kejar waktu karena ingin cepat selesai.
+
+link : 
+
+
+6). membuat moodboard dengan invision untuk mencari inspirasi desain aplikasi yang akan kita buat.
+link web :  https://www.invisionapp.com/
+
+1. color scheme / mencari warna 
+memilih beberapa web inspirasi dari dribble.com dan disave
+karena disini kita akan membuat web hotel/rumah untuk keluarga, maka kita akan mencari desain inspirasi yang web2 yang ceria
+2. memilih icons dari dribble.com dan disave
+3. memilih illustrasi dari dribble.com dan disave
+4. memilih font tipografi, hindari font-font yang berbayar disarankan menggunakan font dari google font (font poppins)
+
+
+7). membuat visual dengan dengan figma ntuk mengimplentasikan desain wireframe yang sudah kita buat.
+note : 
+1. membuat layout dengan tampilan dekstop macbookPro.
+2. membuat layout sesuai desain bootstrap yaitu setiap halaman atau layout terdiri dari maksimal 12 kolom dan (gutter width) 30 px
+3. setiap button harus dijadikan component supaya ketika kita merubah 1 warna pada button tersebut maka semua button juga ikutan berubah, jadi tidak perlu menggantinya dsatu persatu, dengan klik button kemudian klik kanan dan pilih component. kemudian kita bisa copy elemen2 button tersebut.
+4. untuk membuat shadow pada button kita dapat klik effect kemudian klik + dan klik dropshadow dan tandang * lalu atur blur dan y tau x nya dan juga bisa atur tingkat blurnya berapa %.
+5. jika ingin mengganti tittle setiap componen button maka tidak akan berubah selama bukan primary button atau utama yang di dirubah.
+
+8). visual design 2
+1. membuat column dengan ukuran bootstrap dengan 3 kolam maka 12/3 
+maka setiap kolam memiliki lebar 4 kolam.
+2. membuat gambar dengan copy paste dari unsplash dan kita bisa flip atau merubah posisi pada gambar dengan klik kanan pada sisi kiri gambar dan flip.
+3. untuk menambahkan teks pada gambar yang terang dan teks agak susah terbaca, 
+maka pada group gambar kita copy.
+kemudian copianya kita rubah nama grupnya menjadi "overlay", klik ratangle atau gambar pada sisi kiri, kemudain hapus fill pada nya pada sisi kanan, kemudain tambahkan lagi fillnya, dan pilih linear pada sisi kanan atas fill, kemudian atur sisi atas dengan agar terang dan sisi bawah agak gelap sekitar 50%, pada gambar kemudian tarik dari atas ke tengah atau digelapkan pada dekat sisi tek agar terlihat, yang berada di bagian bawah gambar, 
+kemudian tekjs ganti dengan warna yang cerah seperti putih. backgroundnya pada gambar sudah menjadi gelap.
+
+9). meeting dengan tim depeloper front end dan back end menggunakan aplikasi web whereby.com. gratis.
+link : https://whereby.com/user/login
+
+10). 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
