@@ -19,7 +19,6 @@
   },
   "include": ["src/**/*"]
 }
-
 >>
 note : ini berfungsi untuk mempermudah ketika kita mwu import-import setiap komponen jadi
 bisa muncul lokasi folder atau filenya secara otomatis dan harus keluar dulu dari foldernya ("../folder/file")
@@ -29,4 +28,8 @@ bisa dengan cara ketikan "nama foldernya" kemudian
 tekan "control" dan "sepasi"
 maka secara otomatis akan ditampilkan folder tersebut meski berada di luar folder.
 
-# 
+# siapankan variabel warna
+-masuke folder scss
+-kemudian cari file _variabel.scss kemuadian kita siapkan warna2 yang kita ingin kan.
+-copikan kode heksa pada warna yang ingin kita jdikan warna primary kita dsni kita ambil dari warna logi staycation yang biru nya "#3E3EC2"
+-kemudian jadikan warna (indigo: #3E3EC2) sebagai warna primary kita 
