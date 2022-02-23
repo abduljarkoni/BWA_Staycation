@@ -9,8 +9,13 @@
     --#{$variable-prefix}#{$color}: #{$value};
   }
 
+  // settingan warna w
+  @each $color, $value in $colors {
+    --#{$variable-prefix}tex-#{$color}: #{$value};
+  }
+  // settingan warna w
   @each $color, $value in $grays {
-    --#{$variable-prefix}gray-#{$color}: #{$value};
+    --#{$variable-prefix}text-gray-#{$color}: #{$value};
   }
 
   @each $color, $value in $theme-colors {
